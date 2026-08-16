@@ -1,5 +1,10 @@
 # Project 2: Network Discovery & Traffic Analysis
 
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Markdown](https://img.shields.io/badge/Documentation-Markdown-blue)
+![Networking](https://img.shields.io/badge/Focus-Networking-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
+
 ## Overview
 
 As part of my cybersecurity learning journey, I conducted a practical network investigation using **Nmap** and **Wireshark**.
