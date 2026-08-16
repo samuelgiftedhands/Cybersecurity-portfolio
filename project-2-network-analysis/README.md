@@ -5,6 +5,16 @@
 ![Networking](https://img.shields.io/badge/Focus-Networking-orange)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
 
+---
+
+## 👤 Author
+
+**Samuel Akinola**
+
+📅 August 2026
+
+---
+
 ## Overview
 
 As part of my cybersecurity learning journey, I conducted a practical network investigation using **Nmap** and **Wireshark**.
